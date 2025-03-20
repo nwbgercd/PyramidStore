@@ -3,7 +3,7 @@
     "key": "py_金牌",
     "name": "金牌",
     "type": 3,
-    "api": "https://raw.githubusercontent.com/nwbgercd/PyramidStore/main/plugin/html/金牌.py",
+    "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/nwbgercd/PyramidStore/main/plugin/html/金牌.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -15,7 +15,7 @@
     "key": "py_光速",
     "name": "光速",
     "type": 3,
-    "api": "https://raw.githubusercontent.com/nwbgercd/PyramidStore/main/plugin/app/光速APP.py",
+    "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/nwbgercd/PyramidStore/main/plugin/app/光速APP.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
